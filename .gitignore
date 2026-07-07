@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# VSCode
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS Files
+.DS_Store
+Thumbs.db
