@@ -190,4 +190,4 @@ Random Forest outperformed Linear Regression by capturing nonlinear relationship
 
 ---
 
-## ⭐ If you found this project useful, consider giving it a star!
+## ⭐ If you found my work good, consider giving it a star!
